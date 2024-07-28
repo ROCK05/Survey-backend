@@ -1,0 +1,2 @@
+ALTER TABLE survey
+ADD multiple_attempts BOOLEAN DEFAULT FALSE;

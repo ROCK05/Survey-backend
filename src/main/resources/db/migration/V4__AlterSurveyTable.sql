@@ -1,0 +1,2 @@
+ALTER TABLE survey
+ADD anonymous BOOLEAN DEFAULT FALSE;
